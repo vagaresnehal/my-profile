@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-profile
 
 
@@ -11,3 +12,6 @@ Tools:
  3.Bootsrap
  4.Angular
  5.React
+=======
+# my-profile
+>>>>>>> parent of 9e0d058 (update readme.md file with Tools and Technologies)
